@@ -73,7 +73,7 @@ function instagramPost(Handle_of_author,content,image_link_posted,Number_of_view
     // Q4
     //Object assign method
     let Onyinye = Object.assign({}, Musa);
-    Onyinye.name = "Onyine";
+    Onyinye.name = "Onyinye";
     console.log(Onyine);
     //answer
     // {
